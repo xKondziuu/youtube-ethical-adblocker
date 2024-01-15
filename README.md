@@ -1,2 +1,1 @@
-# youtube-ethical-adblocker
-The YouTube Ethical AdBlocker (YTEAB)
+# The YouTube Ethical AdBlocker
